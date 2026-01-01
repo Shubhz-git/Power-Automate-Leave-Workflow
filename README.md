@@ -1,4 +1,4 @@
-# Automated Leave Management System 🚀
+# Power-Automate-Leave-Workflow 🚀
 
 An end-to-end automation solution built with **Microsoft Power Automate**, **SharePoint Online**, and **Microsoft Teams**. This project streamlines the employee leave request process from submission to final approval and calendar logging.
 
